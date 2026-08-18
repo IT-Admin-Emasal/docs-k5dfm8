@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-mq14x8.salamcuanwin.xyz/sitemap.xml
